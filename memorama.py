@@ -1,7 +1,7 @@
 # Adrian Luevanos Castillo A00827701
 #07/05/2021
 #https://github.com/adrianluev/memorama.git
-
+#https://youtu.be/hpjKOheY2CU
 # Fue muy interesante trabajar con listas anidadas y de como se puede crear un sistema de coordenadas con estos
 # Tambien me gusto trabajar con los clicks en vez del teclado porque tiene diferentes usos y se tiene que hacer un interfaz
 # diferente para que pueda ser usado de manera correcta.
